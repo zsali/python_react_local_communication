@@ -1,0 +1,21 @@
+child pc                            parent pc
+no internet			    with internet
+
+	Child pc uses parent pc internet
+
+So first the connection should made from child pc to parent pc NOAP
+ 
+child pc should know the parent ip Noap
+
+After the connection the child pc Noap   
+
+
+in react 
+
+parent route 
+parent pc
+it set the ip address and port of his 
+
+child route 
+child pc
+child will access that ip address that set by parent 
